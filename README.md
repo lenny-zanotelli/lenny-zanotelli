@@ -9,9 +9,9 @@
 
 ### :man_technologist: About Me :
 
-- 👋 Hi, I’m @lenny-zanotelli
+- 👋 Hi, I’m @lenny-zanotelli.
 - 👀 I’m interested in web development and webdesign.
-- 🌱 I’m a Self-taught programmer and currently
+- 🌱 I’m a Self-taught programmer and currently training with Ecole O'Clock.
 
 ### :hammer_and_wrench: Languages and Tools :
 <br/>
