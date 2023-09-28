@@ -11,7 +11,7 @@
 
 - 👋 Hi, I’m @lenny-zanotelli.
 - 👀 I’m interested in web development and open-source project.
-- 🌱 I’m a Self-taught programmer and currently training with Ecole O'Clock.
+- 🌱 I’m a Self-taught programmer and currently training with Wild Code School.
 
 ### :hammer_and_wrench: Languages and Tools :
 <br/>
