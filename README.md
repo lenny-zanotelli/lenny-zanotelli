@@ -49,11 +49,5 @@
 <a href="https://www.linkedin.com/in/lenny-zanotelli/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" style="width:42px;height:42px;">
 </a>
-<br/>
-<br/>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenny-zanotelli&show_icons=true&locale=en&layout=compact" alt="lenny-zanotelli" />
-</p>
-
 
 
