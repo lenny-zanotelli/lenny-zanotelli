@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lenny Zanotelli</h1>
 <h3 align="center">A passionate web developer from France</h3>
 
-- 🌱 I’m currently learning **NextJS and GraphQL**
+- 🌱 I’m currently learning **NextJS, GraphQL and Docker**
 
 - 👨‍💻 All of my projects are available at [https://lenny-zanotelli.github.io/](https://lenny-zanotelli.github.io/)
 
