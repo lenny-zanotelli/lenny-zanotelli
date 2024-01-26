@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lenny Zanotelli</h1>
 <h3 align="center">A passionate web developer from France</h3>
 
-- 🌱 I’m currently learning **PHP and Docker**
+- 🌱 I’m currently learning **Docker and Symfony**
 
 - 👨‍💻 All of my projects are available at [https://lenny-zanotelli.github.io/](https://lenny-zanotelli.github.io/)
 
@@ -11,7 +11,7 @@
 <h3>Programming Languages</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <br/>
 <h3>Frontend Development</h3>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -40,5 +40,4 @@
 <a href="https://www.linkedin.com/in/lenny-zanotelli/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" style="width:42px;height:42px;">
 </a>
-
 
