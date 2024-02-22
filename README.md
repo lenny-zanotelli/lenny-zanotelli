@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lenny Zanotelli</h1>
 <h3 align="center">A passionate web developer from France</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lenny-zanotelli&label=Profile%20views&color=c00101&style=flat-square" alt="lenny-zanotelli" /> </p>
 
-- 🌱 I’m currently learning **Docker and Symfony**
+- 🌱 I’m currently learning **Symfony**
 
 - 👨‍💻 All of my projects are available at [https://lenny-zanotelli.github.io/](https://lenny-zanotelli.github.io/)
 
 - 💬 Ask me about **React**
+
 
 <h2>:hammer_and_wrench: Skills</h2> 
 <h3>Programming Languages</h3>
@@ -35,6 +37,8 @@
 <h3>Tools</h3>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
   <br/>
   <h3>Connect with me :</h3>
 <a href="https://www.linkedin.com/in/lenny-zanotelli/">
