@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from France</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lenny-zanotelli&label=Profile%20views&color=c00101&style=flat-square" alt="lenny-zanotelli" /> </p>
 
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m currently learning **Symfony** and **AdonisJS**
 
 - 👨‍💻 All of my projects are available at [https://lenny-zanotelli.github.io/](https://lenny-zanotelli.github.io/)
 
