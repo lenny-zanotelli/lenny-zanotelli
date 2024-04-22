@@ -1,12 +1,16 @@
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
 <h1 align="center">Hi 👋, I'm Lenny Zanotelli</h1>
 <h3 align="center">A passionate web developer from France</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lenny-zanotelli&label=Profile%20views&color=c00101&style=flat-square" alt="lenny-zanotelli" /> </p>
 
-- 🌱 I’m currently learning **Symfony** and **AdonisJS**
+- 🌱 I’m currently learning **TDD/BDD** and **AdonisJS**
 
 - 👨‍💻 All of my projects are available at [https://lenny-zanotelli.github.io/](https://lenny-zanotelli.github.io/)
 
 - 💬 Ask me about **React**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lenny-zanotelli&show_icons=true&locale=en" alt="lenny-zanotelli" /></p>
 
 
 <h2>:hammer_and_wrench: Skills</h2> 
@@ -25,7 +29,10 @@
 <br/>
 <h3>Backend Development</h3>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://adonisjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original-wordmark.svg" alt="adonis" width="40" height="40" /> </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40" /> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+   <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> 
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 <br/>
 <h3>Database</h3>
