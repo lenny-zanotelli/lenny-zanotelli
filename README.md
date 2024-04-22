@@ -1,5 +1,4 @@
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
+         
 <h1 align="center">Hi 👋, I'm Lenny Zanotelli</h1>
 <h3 align="center">A passionate web developer from France</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lenny-zanotelli&label=Profile%20views&color=c00101&style=flat-square" alt="lenny-zanotelli" /> </p>
